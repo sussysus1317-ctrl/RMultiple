@@ -100,3 +100,5 @@ The interface theme was inspired by **Multiblox** by **vos** and **vesper**.
 RMultiple is licensed under the **PolyForm Strict License 1.0.0**.
 
 See the [`LICENSE`](LICENSE) file for the full terms.
+
+yes i would like to take your money but i just feel like not to so no i won't take your money
