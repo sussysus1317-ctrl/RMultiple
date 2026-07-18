@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+.buildenv/
+venv/
+env/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Editors
+.vscode/
+.idea/
+
+# Temporary and OS files
+*.log
+*.tmp
+Thumbs.db
+desktop.ini
+
+# Local instruction video used during builds
+instruction.mp4
+*.mkv
