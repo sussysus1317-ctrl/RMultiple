@@ -43,35 +43,7 @@ Only download RMultiple from this repository or links posted by **deepslate**.
 - 64-bit Python
 - Administrator permission
 
-Run:
-
-```cmd
-START_RMULTIPLE.bat
-```
-
-Or:
-
-```cmd
-py RMultiple_v17.py
-```
-
 Missing Python dependencies are installed automatically.
-
-## Building the standalone EXE
-
-Run:
-
-```cmd
-BUILD_STANDALONE_EXE.bat
-```
-
-The finished file will be created at:
-
-```text
-dist\RMultiple.exe
-```
-
-The standalone build includes Python, required libraries, icons, and the instruction video when an MP4 is included before building.
 
 ## Discord
 
@@ -93,4 +65,4 @@ RMultiple is licensed under the **PolyForm Strict License 1.0.0**.
 
 See the [`LICENSE`](LICENSE) file for the full terms.
 
-yes i would like to take your money but i just feel like not to so no i won't take your money
+yes i would like to take your money but i just feel like not to so no i won't take your money also pls dont reverse engineer my little exe plsss
