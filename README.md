@@ -23,14 +23,6 @@
 
 ## Preview
 
-Place your app screenshot at:
-
-```text
-assets/rmultiple-preview.png
-```
-
-It will appear here:
-
 <p align="center">
   <img src="assets/rmultiple-preview.png" alt="RMultiple preview" width="760">
 </p>
