@@ -1,0 +1,10 @@
+RMultiple uses third-party software, including:
+
+- PySide6 / Qt for Python
+- psutil
+- pywin32
+- PyInstaller for standalone builds
+- Qt Multimedia may use FFmpeg components at runtime
+
+Each component remains covered by its own license. Review the corresponding
+upstream license files and documentation before redistributing compiled builds.
