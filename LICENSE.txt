@@ -1,0 +1,10 @@
+PolyForm Strict License 1.0.0
+
+Official license terms:
+https://polyformproject.org/licenses/strict/1.0.0
+
+Copyright 2026 deepslate. RMultiple.
+
+RMultiple is free to use for noncommercial purposes under the PolyForm Strict
+License 1.0.0. The license does not grant permission to redistribute the
+software or make modified or derivative versions.
