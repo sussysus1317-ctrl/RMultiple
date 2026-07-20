@@ -4,11 +4,11 @@
 
 <h1 align="center">RMultiple</h1>
 
+---
+
 <p align="center">
   A lightweight Windows utility for launching and managing multiple Roblox client instances.
 </p>
-
----
 
 ## Features
 
